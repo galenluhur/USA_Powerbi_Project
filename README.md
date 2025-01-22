@@ -8,7 +8,7 @@ This semester, I completed an in-depth data visualization project using Power BI
 
 This project allowed me to enhance my skills in creating clear and impactful visualizations to convey meaningful insights. It was an exciting challenge, and I’m proud of the results.
 
-I’d like to showcase some of the best visualizations I developed and share them with others interested in data analytics. The complete Power BI file is available for download on my GitHub: [Insert GitHub Link].
+I’d like to showcase some of the best visualizations I developed and share them with others interested in data analytics.
 
 🔔 Please note: The dataset used is not entirely accurate and is intended solely for educational purposes, with a focus on visual design.
 
